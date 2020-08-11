@@ -1,0 +1,9 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "lamms_shop"]
+	url = https://github.com/244146154/lamms_shop.git
+	fetch = +refs/heads/*:refs/remotes/lamms_shop/*
