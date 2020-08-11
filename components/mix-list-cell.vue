@@ -17,6 +17,8 @@
 			></text>
 		</view>
 
+
+
 	</view>
 </template>
  
